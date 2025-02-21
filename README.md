@@ -1,6 +1,6 @@
 # Amigo Secreto
 
-< y sencilla de gestionar el Amigo Secreto sin complicaciones.
+Este proyecto es un mini juego o sorteo para organizar el Amigo Secreto entre amigos. La aplicación permite ingresar los nombres de todos los participantes y, mediante un sorteo aleatorio, asigna quién le da un regalo a quién. Es una forma divertida y sencilla de gestionar el Amigo Secreto sin complicaciones
 
 ### Clonar el Repositorio 
 
